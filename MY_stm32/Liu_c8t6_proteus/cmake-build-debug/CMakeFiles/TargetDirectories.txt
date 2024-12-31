@@ -1,0 +1,3 @@
+C:/Users/liujiajun/Desktop/shudiankeshe/MY_stm32/Liu_c8t6_proteus/cmake-build-debug/CMakeFiles/Liu_c8t6.elf.dir
+C:/Users/liujiajun/Desktop/shudiankeshe/MY_stm32/Liu_c8t6_proteus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/liujiajun/Desktop/shudiankeshe/MY_stm32/Liu_c8t6_proteus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
